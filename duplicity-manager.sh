@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# backup-manager.sh
+# duplicity-manager.sh
 # Wrapper script for Duplicity to assist in making backup management
 # with Duplicity a bit more user friendly.
 #
